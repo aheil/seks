@@ -8,6 +8,9 @@
 // Color system
 //
 
+// Custom Colors 
+$hhn-blue:   #5B89C2;
+
 $gray-darker:           #515665;
 $gray-dark:             #707782;
 $gray:                  #AAB0BF;
@@ -57,7 +60,7 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
-$p2pu-blue:     #05C6B4;
+$p2pu-blue:     #5B89C2;
 $p2pu-green:    #B7D500;
 $p2pu-yellow:   #FFBC1A;
 $p2pu-orange:   #FC7100;
@@ -188,8 +191,7 @@ $body-color:                $gray-darker;;
 //
 // Style anchor elements.
 
-
-$link-color:                $p2pu-blue;
+$link-color:                $hhn-blue;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 15%);
 $link-hover-decoration:     underline !default;

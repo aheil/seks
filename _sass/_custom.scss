@@ -107,7 +107,7 @@ section {
 }
 
 .sidebar li:hover {
-	background-color: cadetblue;
+	background-color: $hhn-blue;
 
 	a:hover, a:focus {
 		text-decoration: none;
@@ -123,7 +123,7 @@ section {
 }
 
 .sidebar li.active a:hover {
-	color: cadetblue;
+	color: $hhn-blue;
 }
 
 .sidebar li a {
@@ -195,7 +195,7 @@ section {
   .sidebar li a:before {
     content: "\f005";
     font-family: FontAwesome;
-    color: cadetblue;
+    color: $hhn-blue;
     position: absolute;
     left: 29px;
     line-height: 1.7;

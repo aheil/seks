@@ -4,7 +4,7 @@
 
 Dieser Kurs ist Teil des Bachelor Studiengangs Software Engineering (SEB) an der Hochschule Heilbronn.
 
-Dies ist das Repository der Kursinformationen. Diese Seiten sind als [interaktiver Kurs verfügbar](https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/readme.md#1) verfügbar.
+Dies ist das Repository der Kursinformationen. Diese Seiten sind als [interaktiver Kurs verfügbar](https://liascript.github.io/course/?https://github.com/aheil/seks) verfügbar.
 
 [Offizielle Seite der Hochschule Heilbronn ⏭](https://www.hs-heilbronn.de/seks)
 

@@ -34,7 +34,7 @@ Prof. Andreas Heil
 
 **Level**
 
-Hauptstudium Bachelor (SEB)
+Hauptstudium Bachelor
 
 **Semesterwochenstunden/ECTS**
 
@@ -42,8 +42,8 @@ Hauptstudium Bachelor (SEB)
 
 **Workload**
 
-- 30h Kontaktstunden / 90h Selbststudium (SEB)
-- 60h Kontaktstunden / 60h Selbststudium (AIB)
+- 30h Kontaktstunden/Lerneinheiten
+- 90h Selbststudium
 
 **Lizenz**
 
@@ -75,7 +75,8 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 
 **Kurszeiten**
 
-Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min. / Einheit (SEB)
+- Vorlesung: 1 Vorlesungseinheit / Woche, 90 Min.
+- Die genauen Veranstaltungszeiten entnehmen Sie bitte dem aktuellen [Stundenplan](https://splan.hs-heilbronn.de/). 
 
 **Voraussetzungen**
 

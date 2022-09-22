@@ -11,7 +11,6 @@ comment:
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://LiaScript.github.io/course/?https://github.com/aheil/seks) 
-![Publish](https://github.com/aheil/seks/workflows/Publish/badge.svg?branch=main)
 
 # Software Engineering komplexer Systeme
 

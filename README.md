@@ -56,8 +56,8 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 |  - | 26.09.2022 | Entfällt (Erstsemesterbegrüßung) |  
 |  - | 03.10.2022 | Vorlesungsfrei (Tag d. deutschen Einheit) | 
 |  1 | 10.10.2022 | Komplexität |
-|  2 | 17.10.2022 | Projektmanagement | 
-|  3 | 24.10.2022 | Entfällt (Blockveranstaltung SEM) | 
+|  2 | 17.10.2022 | entfällt | 
+|  3 | 24.10.2022 | Projektmanagement | 
 |  4 | 31.10.2022 | Scrum | 
 |  5 | 07.11.2022 | Agile Anforderungsanalyse und Schätzen | 
 |  6 | 14.11.2022 | Metriken | 

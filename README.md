@@ -58,14 +58,14 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 |  1 | 10.10.2022 | Komplexität |
 |  2 | 17.10.2022 | entfällt | 
 |  3 | 24.10.2022 | Projektmanagement | 
-|  4 | 31.10.2022 | Scrum | 
-|  5 | 07.11.2022 | Agile Anforderungsanalyse und Schätzen | 
-|  6 | 14.11.2022 | Metriken | 
+|  4 | 31.10.2022 | Vorgehensmodelle / Scrum I | 
+|  5 | 07.11.2022 | Scrum II | 
+|  6 | 14.11.2022 | Agile Anforderungsanalyse und Schätzen |
 |  7 | 21.11.2022 | Software Qualität und Testen | 
 |  8 | 28.11.2022 | Entfällt (Blockwoche SEB) |
-|  9 | 05.12.2022 | Test Driven Development | 
+|  9 | 05.12.2022 | Metriken |
 | 10 | 12.12.2022 | Architekturdokumentation - C4 Modell | 
-| 11 | 19.12.2022 | Gastvortrag | 
+| 11 | 19.12.2022 | Test Driven Development |
 |  - | 26.12.2022 | Vorlesungsfrei |
 |  - | 02.01.2023 | Vorlesungsfrei | 
 | 12 | 09.01.2023 | Software Architektur I |

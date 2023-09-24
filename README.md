@@ -53,23 +53,23 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 
 | Einheit # | Datum | Thema |
 | --- | --- | --- |
-|  - | 26.09.2022 | Entfällt (Erstsemesterbegrüßung) |  
-|  - | 03.10.2022 | Vorlesungsfrei (Tag d. deutschen Einheit) | 
-|  1 | 10.10.2022 | Komplexität |
-|  2 | 17.10.2022 | entfällt | 
-|  3 | 24.10.2022 | Projektmanagement | 
-|  4 | 31.10.2022 | Scrum | 
-|  5 | 07.11.2022 | Agile Anforderungsanalyse und Schätzen | 
-|  6 | 14.11.2022 | Metriken | 
-|  7 | 21.11.2022 | Software Qualität und Testen | 
-|  8 | 28.11.2022 | Entfällt (Blockwoche SEB) |
-|  9 | 05.12.2022 | Test Driven Development | 
-| 10 | 12.12.2022 | Architekturdokumentation - C4 Modell | 
-| 11 | 19.12.2022 | Gastvortrag | 
-|  - | 26.12.2022 | Vorlesungsfrei |
-|  - | 02.01.2023 | Vorlesungsfrei | 
-| 12 | 09.01.2023 | Software Architektur I |
-| 13 | 17.01.2023 | Software Architektur II | 
+|  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) |  
+|  2 | 02.10.2023 | Vorlesungsfrei (Tag d. deutschen Einheit) | 
+|  3 | 09.10.2023 | Projektmanagement |
+|  4 | 16.10.2023 | Scrum (Teil 1) | 
+|  5 | 23.10.2023 | Scrum (Teil 2) | 
+|  6 | 30.10.2023 | Agile Anforderungsanalyse und Schätzen | 
+|  7 | 06.11.2023 | Metriken | 
+|  8 | 13.11.2023 | Software Qualität und Testen | 
+|  9 | 20.11.2023 | Test Driven Development | 
+| 10 | 27.11.2023 | Keine Veranstaltung (Blockwoche SEB) |
+| 11 | 04.12.2023 | Architekturdokumentation - C4 Modell | 
+| 12 | 11.12.2023 | Software Architektur (Teil 1) | 
+| 13 | 18.12.2023 | Software Architektur (Teil 2) | 
+|  - | 26.12.2023 | Vorlesungsfrei |
+|  - | 02.01.2024 | Vorlesungsfrei | 
+| 14 | 08.01.2024 | KI Tools im Software Engineering |
+| 15 | 15.01.2024 | Puffer | 
 
 ## Syllabus
 

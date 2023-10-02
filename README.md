@@ -53,8 +53,7 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 
 | Einheit # | Datum | Thema |
 | --- | --- | --- |
-
-|  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) |  
+|  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) | 
 |  2 | 02.10.2023 | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.02.de.pm.pdf) | 
 |  3 | 09.10.2023 | Scrum (Teil 1) |
 |  4 | 16.10.2023 | Scrum (Teil 2) | 

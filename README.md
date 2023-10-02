@@ -42,6 +42,8 @@ Hauptstudium Bachelor
 
 **Workload**
 
+90h Workload insgesamt, davon:
+
 - 30h Kontaktstunden/Lerneinheiten
 - 60h Selbststudium
 
@@ -51,25 +53,25 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 
 ## Kalender 
 
-| Einheit # | Datum | Thema |
+| Einheit # | Datum | Thema | Hausaufgabe |
 | --- | --- | --- |
-|  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) | 
-|  2 | 02.10.2023 | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.02.de.pm.pdf) | 
-|  3 | 09.10.2023 | Scrum (Teil 1) |
-|  4 | 16.10.2023 | Scrum (Teil 2) | 
-|  5 | 23.10.2023 | ... | 
-|  6 | 30.10.2023 | Agile Anforderungsanalyse und Schätzen | 
-|  7 | 06.11.2023 | Metriken | 
-|  8 | 13.11.2023 | Software Qualität und Testen | 
-|  9 | 20.11.2023 | Test Driven Development | 
-| 10 | 27.11.2023 | Keine Veranstaltung (Blockwoche SEB) |
-| 11 | 04.12.2023 | Architekturdokumentation - C4 Modell | 
-| 12 | 11.12.2023 | Software Architektur (Teil 1) | 
-| 13 | 18.12.2023 | Software Architektur (Teil 2) | 
-|  - | 26.12.2023 | Vorlesungsfrei |
-|  - | 02.01.2024 | Vorlesungsfrei | 
-| 14 | 08.01.2024 | KI Tools im Software Engineering |
-| 15 | 15.01.2024 | Puffer | 
+|  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) | |
+|  2 | 02.10.2023 | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.02.de.pm.pdf) | [GANTT-Projektplan](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/labs/01_pm/gantt.md) |
+|  3 | 09.10.2023 | Scrum (Teil 1) | |
+|  4 | 16.10.2023 | Scrum (Teil 2) | |
+|  5 | 23.10.2023 | ... | |
+|  6 | 30.10.2023 | Agile Anforderungsanalyse und Schätzen | |
+|  7 | 06.11.2023 | Metriken | |
+|  8 | 13.11.2023 | Software Qualität und Testen | |
+|  9 | 20.11.2023 | Test Driven Development | |
+| 10 | 27.11.2023 | Keine Veranstaltung (Blockwoche SEB) | |
+| 11 | 04.12.2023 | Architekturdokumentation - C4 Modell | |
+| 12 | 11.12.2023 | Software Architektur (Teil 1) | |
+| 13 | 18.12.2023 | Software Architektur (Teil 2) | |
+|  - | 26.12.2023 | Vorlesungsfrei | |
+|  - | 02.01.2024 | Vorlesungsfrei | |
+| 14 | 08.01.2024 | KI Tools im Software Engineering | |
+| 15 | 15.01.2024 | Puffer | |
 
 ## Syllabus
 

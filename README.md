@@ -57,7 +57,7 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 | --- | --- | --- |
 |  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) | |
 |  2 | 02.10.2023 | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.02.de.pm.pdf) | [GANTT-Projektplan](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/labs/01_pm/gantt.md) |
-|  3 | 09.10.2023 | Scrum (Teil 1) | |
+|  3 | 09.10.2023 | [Wasserfall vs. Scrum (Teil 1)](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.03.de.wasserfall.pdf) | |
 |  4 | 16.10.2023 | Scrum (Teil 2) | |
 |  5 | 23.10.2023 | ... | |
 |  6 | 30.10.2023 | Agile Anforderungsanalyse und Schätzen | |

@@ -55,23 +55,20 @@ Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creat
 
 | Einheit # | Datum | Thema | Hausaufgabe |
 | --- | --- | --- |
-|  1 | 25.09.2023 | [Komplexität](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.01.de.complexity.pdf) | |
-|  2 | 02.10.2023 | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.02.de.pm.pdf) | [GANTT-Projektplan](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/labs/01_pm/gantt.md) |
-|  3 | 09.10.2023 | [Wasserfall vs. Scrum (Teil 1)](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.03.de.wasserfall.pdf) | |
-|  4 | 16.10.2023 | [Scrum (Teil 2)](https://github.com/aheil/hhn-seks/blob/872efac2fba1464205931cdcf29ebef5973340d7/slides/seks.03.de.scrum.pdf) | |
-|  5 | 23.10.2023 | ... | |
-|  6 | 30.10.2023 | Agile Anforderungsanalyse und Schätzen | |
-|  7 | 06.11.2023 | Metriken | |
-|  8 | 13.11.2023 | Software Qualität und Testen | |
-|  9 | 20.11.2023 | Test Driven Development | |
-| 10 | 27.11.2023 | Keine Veranstaltung (Blockwoche SEB) | |
-| 11 | 04.12.2023 | Architekturdokumentation - C4 Modell | |
-| 12 | 11.12.2023 | Software Architektur (Teil 1) | |
-| 13 | 18.12.2023 | Software Architektur (Teil 2) | |
-|  - | 26.12.2023 | Vorlesungsfrei | |
-|  - | 02.01.2024 | Vorlesungsfrei | |
-| 14 | 08.01.2024 | KI Tools im Software Engineering | |
-| 15 | 15.01.2024 | Puffer | |
+|  1 | - | [Komplexität](https://github.com/aheil/hhn-seks/blob/main/slides/seks.01.de.complexity.pdf) | |
+|  2 | - | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/main/slides/seks.02.de.pm.pdf) | |
+|  3 | - | [Wasserfall vs. Scrum (Teil 1)](https://github.com/aheil/hhn-seks/blob/main/slides/seks.03.de.wasserfall.pdf) | |
+|  4 | - | [Scrum (Teil 2+3)](https://github.com/aheil/hhn-seks/blob/main/slides/seks.03.de.scrum.pdf) | |
+|  5 | - | [Architekturdokumentation - C4 Modell](https://github.com/aheil/hhn-seks/blob/main/slides/seks.07.de.pdf) | |
+|  6 | - | [Agile Anforderungsanalyse und Schätzen](https://github.com/aheil/hhn-seks/blob/main/slides/seks.06.anforderungsanalyse.pdf) | |
+|  7 | - | [Metriken](https://github.com/aheil/hhn-seks/blob/main/slides/seks.04.de.metriken.pdf) | |
+|  8 | - | [Software Qualität und Testen](https://github.com/aheil/hhn-seks/blob/main/slides/seks.05.de.qualitaetssicherung.pdf) | |
+|  9 | - | Test Driven Development | |
+| - | - |  | |
+| - | - |  | |
+| - | - | - | |
+| - | - | - | |
+| - | - | - | |
 
 ## Syllabus
 

@@ -124,6 +124,19 @@ Und es gibt **inoffizielle Beziehungen**
 * Test Driven Development
 * Clean Code
 
+## Aufgabe
+
+Bilden Sie eine Gruppe, in der für das Semester zusammenarbeiten.&#x20;
+
+Wählen Sie ein Software-System aus, das Sie den Anfordeurngen an ein komplexes System entspricht, und dass Sie als Gruppe gerne besser kennen lernen möchten.&#x20;
+
+Über dieses System werden Sie das Referat halten. Dies kann ein Betriebssystem (z.B. Windows, Ubuntu etc.), eine Programmiersprache (Rust, Elixis, .ET etc.), eine Software (OneDrive, Mastodon etc.) oder ein System (Quantencomputer, 3D-Drucker etc.) sein.&#x20;
+
+1. Diskutieren Sie im Team und finden Sie einen Konsens.
+2. Schreiben Sie einige Sätze zudem System und beschreiben sie kurz, weshalb es sich um ein komplexes System handelt.&#x20;
+
+
+
 ***
 
 ## Referenzen

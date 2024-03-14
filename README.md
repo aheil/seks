@@ -81,7 +81,3 @@ Abgaben und das Kurzreferat sind in Gruppen von 3-4 Personen zu bearbeiten. Idee
 
 Sofern nicht anders angegeben, steht das gesamte Kursmaterial unter einer [Creative Commons Namensnennung 4.0 International Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
-### Kalender
-
-\| Einheit # | Datum | Thema | Hausaufgabe | | --- | --- | --- | | 1 | - | [Komplexität](https://github.com/aheil/hhn-seks/blob/main/slides/seks.01.de.complexity.pdf) | | | 2 | - | [Projektmanagement](https://github.com/aheil/hhn-seks/blob/main/slides/seks.02.de.pm.pdf) | | | 3 | - | [Wasserfall vs. Scrum (Teil 1)](https://github.com/aheil/hhn-seks/blob/main/slides/seks.03.de.wasserfall.pdf) | | | 4 | - | [Scrum (Teil 2+3)](https://github.com/aheil/hhn-seks/blob/main/slides/seks.03.de.scrum.pdf) | | | 5 | - | [Architekturdokumentation - C4 Modell](https://github.com/aheil/hhn-seks/blob/main/slides/seks.07.de.pdf) | | | 6 | - | [Agile Anforderungsanalyse und Schätzen](https://github.com/aheil/hhn-seks/blob/main/slides/seks.06.anforderungsanalyse.pdf) | | | 7 | - | [Metriken](https://github.com/aheil/hhn-seks/blob/main/slides/seks.04.de.metriken.pdf) | | | 8 | - | [Software Qualität und Testen](https://github.com/aheil/hhn-seks/blob/main/slides/seks.05.de.qualitaetssicherung.pdf) | | | 9 | - | Test Driven Development | | | - | - | | | | - | - | | | | - | - | - | | | - | - | - | | | - | - | - | |
-

@@ -135,9 +135,17 @@ Wählen Sie ein Software-System aus, das Sie den Anfordeurngen an ein komplexes 
 1. Diskutieren Sie im Team und finden Sie einen Konsens.
 2. Schreiben Sie einige Sätze zudem System und beschreiben sie kurz, weshalb es sich um ein komplexes System handelt.&#x20;
 
+## Beispielvideos&#x20;
 
+Bei den Videos ist es erlaub "out-of-the-box" zu denken. Hier einige sehr gut gelungene Beispiele aus vorherigen Kursen:
 
-***
+{% embed url="https://youtu.be/d81UadVzEEk?si=nCyteo_fo5O0H-Sw" %}
+Rootkits (SoSe 23)
+{% endembed %}
+
+{% embed url="https://youtu.be/6ZGG2hruA9c?si=hhG4h26t0CcKGRl3" %}
+Go Programmierung (WiSe 23)
+{% endembed %}
 
 ## Referenzen
 

@@ -165,7 +165,7 @@ User Stories [dienen der Kommunikation ](https://www.mountaingoatsoftware.com/ag
 
 <figure><img src=".gitbook/assets/seks.06.persona-muster.de.png" alt=""><figcaption></figcaption></figure>
 
-### Weiterführende Literatur&#x20;
+## Weiterführende Literatur&#x20;
 
 **Scrum – Produkte zuverlässig und schnell entwickeln** Boris Gloger, Hanser Verlag, 5. Auflage, 2016, ISBN 978-3-446-44723-3
 

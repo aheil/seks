@@ -127,15 +127,37 @@ Das **Agile Manifest** wurde im **Februar 2001** von einer Gruppe von 17 Softwar
   * Magic Estimation
   * ...
 
+## User Stories
+
+In der agilen Welt werden oftmals »User Stories« (oder kurz Stories) verwendet
+
+* Basierend auf Mike Cohen (User Stories Applied, 2004)
+
+User Stories sind in der folgenden Form aufgebaut:
+
+_As a \<user role>_ \
+_I need \<functionality>_ \
+_so that I get \<business value>_
+
+bzw. in Deutsch:
+
+_Als \<Anwender mit der Rolle>_ \
+_benötige ich eine \<Funktionalität>_ \
+_damit ich \<den Nutzen> bekommen_
+
+Jede User Story steht dabei für ein Feature oder eine Funktionalität im System, das aus der Sicht des Anwenders mit der entsprechenden Rolle beschrieben ist.&#x20;
+
+User Stories [dienen der Kommunikation ](https://www.mountaingoatsoftware.com/agile/user-stories)zwischen Product Owner und Team bzw. innerhalb des Teams. Sie werden in verschiedenen Meetings im Scrum Prozess als Grundlage zur Kommunikation verwendet.  Ergänzend kann man Akzeptanzkriterien angeben, anhand derer der Product Owner dies Story abnehmen kann.&#x20;
+
+
+
 ## Personas
 
-* In der agilen Welt werden oftmals »Stories« verwendet
-  * Basierend auf Mike Cohen (User Stories Applied, 2004)
-* Warum Personas?
-  * Stellvertretend für eine spezielle Benutzerrolle (engl. user role)
-  * Archetyp eines typischen Anwenders
-  * Fiktive Person, die eine Gruppe von Anwender repräsentiert
-  * Hilft den Anwender besser zu verstehen
+* Warum Personas?&#x20;
+  * Stellvertretend für eine spezielle Benutzerrolle (engl. user role) können Personas in User Stories verwendet werden.
+  * Personas sind sog. Archetypen eines typischen Anwenders.
+  * Meist ist es eine fiktive Person, die eine Gruppe von Anwender repräsentiert, die man sich gut merken kann und Eigenheiten und Merkmale aufweist, die diese Gruppe repräsentieren.
+  * Personas helfen den Anwender besser zu verstehen und eigenen sich daher besonders eine User Story aus deren Sicht zu beschreiben.
 
 <figure><img src=".gitbook/assets/seks.06.persona.de.png" alt=""><figcaption></figcaption></figure>
 

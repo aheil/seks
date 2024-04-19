@@ -42,24 +42,6 @@ Ganz oft dann aber auch so, weil einfach und handhabbar und nicht formal:&#x20;
 
 **Problem formaler Methoden**: Diese sind "synthetisch" und müssen gelernt werden. Sie müssen von beiden Seiten verstande n werden. Daher einigt man ich meistens pragmatisch auf die Ebene, die beide Seiten verstehen.&#x20;
 
-## Übung
-
-**Teil 1:**
-
-* Finden Sie sich in Ihrer Gruppe zusammen
-* Stellen Sie sich kurz gegenseitig jeweils das größte Software-Projekt vor, an dem Sie bisher gearbeitet haben und wählen Sie in Ihrer Gruppe ein Projekt aus erklären Sie die Architektur des Projektes dem Rest Ihres Teams.&#x20;
-* Dauer 10 Minuten.
-
-**Teil 2:**&#x20;
-
-* Ein Team-Mitglied, von dem das Projekt **nicht eingebracht wurde**, stellt die Architektur nun dem gesamten Kurs vor.
-* Dauer 5 Minuten.
-
-**Teil 3:**
-
-* Kurze Feedback Runde
-* Dauer 5 Minuten&#x20;
-
 ## Motivation
 
 Visuelle Kommunikation im Baugewerbe: Hier gibt es Lageplane, Raumpläne, Bebauungspläne, Querschnittsansichten, detaillierte Standardzeichnungen und technische Zeichnungen, die von den ausführenden Gewerken in der Regel ohne Probleme gelsen und (fehlerfrei) umgesetzt werden können.&#x20;
@@ -94,28 +76,96 @@ Wenn Diagramme genutzt werden sind diese oftmals&#x20;
 
 ## C4 Modell&#x20;
 
-Das [C4 Modell](https://c4model.com) nutzt so.g Code-Landkarten zum verschiedene Sichten auf eine Software-Architektur zu modellieren. Jede Sicht kann für einen ganz unterschiedlichen Zweck und eine unterschiedliche Zielgruppe genutzt werden.
+Das [C4 Modell](https://c4model.com) nutzt so.g Code-Landkarten zum verschiedene Sichten (Detaillevel) auf eine Software-Architektur zu modellieren. Jede Sicht kann für einen ganz unterschiedlichen Zweck und eine unterschiedliche Zielgruppe genutzt werden.
 
 **Context**
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>Bildquelle https://maps.google.com</p></figcaption></figure>
 
-In welchem Gesamtkontext befindet sich das System, an welche externen Systeme grenzt es an?
+In welchem Gesamtkontext befindet sich das System, an welche externen Systeme grenzt es an?&#x20;
+
+Das Kontextdiagram beschreibt das Big Picture. Wie passen die Teile in den Gesamtkontext?&#x20;
 
 **Container**
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>Bildquelle https://maps.google.com</p></figcaption></figure>
 
-Aus welchen Bestandeilen besteht das System.
+Aus welchen Bestandeilen besteht das System. Im C4 Model sind hierbei Einheiten beschrieben, die Code hosten. Es kann sich dabei z.B. um auch einen Appliation Server handeln.
 
 **Component**
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>Bildquelle https://maps.google.com</p></figcaption></figure>
 
-Wie sind die einzelnen Bestandteile aufgebaut.&#x20;
+Wie sind die einzelnen Bestandteile aufgebaut. In der Regel sind dies Gruppen von zusammengehörigen Funktionen, die hinter einer wohldefinierten Schnittstelle verborgen sind.
 
 **Code**
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>Bildquelle Peter Schmelzle - Self-photographed, CC BY-SA 3.0</p></figcaption></figure>
 
-Wie sehen die Bestandtiel des Systems im Detil aus.&#x20;
+Wie sehen die Bestandtiel des Systems im Detil aus. Hier werden Klassen, Schnittstelle, Objekte, Funktionen, Tabellen etc. innerhalb einer Komponente beschrieben.
+
+Das C4 Model ist gedacht, um Software-Architekturen zu modellieren und zu kommunizieren. Es unterstützt einen “Abstraction First“ Ansatz und reflektiert die Denkweise von Entwicklern und Software-Architekten&#x20;
+
+Es ist auch geeignet um Architekturen “Up Front” oder im Nachhinein zu dokumentieren.&#x20;
+
+
+
+## C4 Metamodell
+
+<figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption><p>C4 Sichten</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Elemente und Bezeiheungen</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption><p>Diagrammelemente</p></figcaption></figure>
+
+## Level 1: System Context Diagram
+
+* Scope: Ein einzelnes Software System Primäre&#x20;
+* Elemente: Das im Scope befindliche Software System Unterstützende&#x20;
+* Elemente: Personen und Software Systeme, die direkt mit dem im Scope befindlichen Software System in Verbindung&#x20;
+* Zielgruppe: Technische und nicht-technische Personen innerhalb und außerhalb des Entwicklungs-Teams
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+## Level 2: Container Diagram
+
+* Scope: Ein einzelnes Software System Primäre&#x20;
+* Elemente: Der im Scope befindliche Container Unterstützende Elemente: Personen und Software System, die mit dem im Scope befindlichen Container in Verbindung stehen&#x20;
+* Zielgruppe: Technische Personen innerhalb und außerhalb des Software Entwicklungs-Teams; einschließlich Software Architekten, Entwickler und Betriebs- und Supportpersonal #
+* Hinweis: Container Diagramme treffen keine Aussage über die Deployment Szenarien, eventuelles Clustering, Replikations- und/oder Failover-Szenarien etc.
+
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
+## Level 3: Component Diagram&#x20;
+
+* Scope: Ein einzelner Container Primäre Elemente: Komponenten innerhalbs des im Scope befindlichen Containers Unterstützende&#x20;
+* Elemente: Containers (innerhalb des im Scope befindlichen Software Systems) + Personen und Software Systeme, die direkt mit den Komponenten in Verbindung stehen&#x20;
+* Zielgruppe: Software Architekten and Entwickler
+
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+## Level 4 Code Diagram
+
+* Scope: Eine einzelne Komponente Primäre Elemente: Code&#x20;
+* Elemente (z.B. Klassen, Interfaces, Objekte, Methoden und Funktionen, Datenbanken und Tabellen etc.) innerhalb der im Scope befindlichen Komponente&#x20;
+* Zielgruppe: Software-Architekten und Entwickler
+
+<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+## Zusätzliche Diagramme
+
+Die 4 Level sind nicht immer ausreichend Wo nötig mit Komplementären ergänzen. Beispiele hierfür sind:
+
+* Systemlandschaft: In der echten Welt sind Software Systeme schon lange nicht mehr voneinander isolier und zeigen z.B. wie Systeme innerhalb eines Unternehmen zusammenspielen&#x20;
+* Dynamische Diagramme: UML Kollaborationsdiagramme, UML Sequenzdiagamme&#x20;
+* Deployment Diagramme: UML Deployment Diagramme einschließlich Containers and Deployment Nodes
+
+## Praxisbeispiel
+
+<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption><p>Quelle: https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app</p></figcaption></figure>
+
+Anhand der Microsoft Referenz Architektur für Microsoft Azure App Service ist es schwer, die exkaten Komponenten und das Zusammenspiel der Systembestandteile zu verstehen und letztendlich umzusetzen.
+
+Anhand eines Level 2 Diagrams lässt sich dies wesentlich klarer ausdrücken:&#x20;
+
+<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption><p>Quelle: https://azure-development.com/1918/09/11/save-the-world-from-powerpoint-cloud-solution-architects/</p></figcaption></figure>

@@ -11,5 +11,5 @@
 * [Lab 01: Projektplan](lab-01-projektplan.md)
 * [Lab 02: Backlog Planung](lab-02-backlog-planung.md)
 * [Lab 03: Personas](lab-03-personas.md)
-* [Downloads](downloads.md)
 * [Lab 04: C4 Modell](lab-04-c4-modell.md)
+* [Downloads](downloads.md)

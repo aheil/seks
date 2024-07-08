@@ -1,4 +1,4 @@
-# Einheit 04:  C4 Software Dokumentation
+# Einheit 04: C4 Software Dokumentation
 
 ##
 
@@ -18,11 +18,11 @@ Welches ist die beste/einfachste/verständlichste Art Software-Architekturen zu 
 
 So? Schnell und einfach aber klar und verständlich?
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Quelle: http://c4model.com/</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Quelle: http://c4model.com/</p></figcaption></figure>
 
 Besser so? Formal ja, aber genügend Detailgrad und unmißverständlich?
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Noch besser so? Formal ja, mehr Detailgrad, aber genug Implementierungsetails? Was bedeuten die Pfeile?
 

@@ -11,5 +11,5 @@ Go Programmierung (WiSe 23)
 {% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=C2XXV7hUeBM" %}
-Quantencomputer (SoSe24)
+Quantencomputer (SoSe 24)
 {% endembed %}

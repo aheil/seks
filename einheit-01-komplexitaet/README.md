@@ -1,4 +1,4 @@
-# Komplexität
+# Einheit 01: Komplexität
 
 ## Lernziele dieser Einheit
 
@@ -21,7 +21,7 @@
 
 Wenn Sie heute eine Single Page Application bestellen, kann es schnell passieren, dass Sie so etwas erhalten:
 
-<figure><img src=".gitbook/assets/seks.01.tech_stack.png" alt=""><figcaption><p>Beispiel Stackein "einfache" Anwendung</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/seks.01.tech_stack.png" alt=""><figcaption><p>Beispiel Stackein "einfache" Anwendung</p></figcaption></figure>
 
 ***
 
@@ -36,11 +36,11 @@ Wenn Sie heute eine Single Page Application bestellen, kann es schnell passieren
 
 
 
-      <figure><img src=".gitbook/assets/seks.01.system.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/seks.01.system.png" alt=""><figcaption></figcaption></figure>
 
 ## Einfach vs. kompliziert vs. komplex
 
-<figure><img src=".gitbook/assets/seks.01.kompliziert-komplex.png" alt=""><figcaption><p>Abgrenzung von Einfach, kompliziert und komplex</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/seks.01.kompliziert-komplex.png" alt=""><figcaption><p>Abgrenzung von Einfach, kompliziert und komplex</p></figcaption></figure>
 
 ## Definitorisches - Software Engineering
 
@@ -58,7 +58,7 @@ Wenn Sie heute eine Single Page Application bestellen, kann es schnell passieren
 
 Komplexe Systeme entstehen durch die Zusammenarbeit vieler Beteiligter, den Einsatz unterschiedlicher Technoligien über einen längeren Zeitraum.
 
-<figure><img src=".gitbook/assets/seks.01.idea.de.png" alt=""><figcaption><p>Entstehung komplexer Systeme</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/seks.01.idea.de.png" alt=""><figcaption><p>Entstehung komplexer Systeme</p></figcaption></figure>
 
 ## Merkmale organisatorischer Komplexität
 
@@ -124,16 +124,7 @@ Und es gibt **inoffizielle Beziehungen**
 * Test Driven Development
 * Clean Code
 
-## Aufgabe
-
-Bilden Sie eine Gruppe, in der für das Semester zusammenarbeiten.&#x20;
-
-Wählen Sie ein Software-System aus, das Sie den Anfordeurngen an ein komplexes System entspricht, und dass Sie als Gruppe gerne besser kennen lernen möchten.&#x20;
-
-Über dieses System werden Sie das Referat halten. Dies kann ein Betriebssystem (z.B. Windows, Ubuntu etc.), eine Programmiersprache (Rust, Elixis, .ET etc.), eine Software (OneDrive, Mastodon etc.) oder ein System (Quantencomputer, 3D-Drucker etc.) sein.&#x20;
-
-1. Diskutieren Sie im Team und finden Sie einen Konsens.
-2. Schreiben Sie einige Sätze zudem System und beschreiben sie kurz, weshalb es sich um ein komplexes System handelt.&#x20;
+##
 
 ## Beispielvideos&#x20;
 

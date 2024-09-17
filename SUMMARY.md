@@ -2,7 +2,8 @@
 
 * [Kursinformationen](README.md)
   * [Termine](readme/termine.md)
-* [Einheit 01: Komplexität](einheit-01-komplexitaet.md)
+* [Einheit 01: Komplexität](einheit-01-komplexitaet/README.md)
+  * [Aufgabe Kurzreferat](einheit-01-komplexitaet/aufgabe-kurzreferat.md)
 * [Einheit 02: Projektmanagement](einheit-02-projektmanagement.md)
 * [Exkurs: Vorgehensmodelle](exkurs-vorgehensmodelle.md)
 * [Einheit 03: Scrum](einheit-03-scrum.md)

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Kursinformationen](README.md)
-* [Termine](termine.md)
+  * [Termine](readme/termine.md)
 * [Einheit 01: Komplexität](einheit-01-komplexitaet.md)
 * [Einheit 02: Projektmanagement](einheit-02-projektmanagement.md)
 * [Exkurs: Vorgehensmodelle](exkurs-vorgehensmodelle.md)

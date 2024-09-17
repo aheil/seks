@@ -135,8 +135,6 @@ Rootkits (SoSe 23)
 {% endembed %}
 
 {% embed url="https://youtu.be/6ZGG2hruA9c?si=hhG4h26t0CcKGRl3" %}
-Go Programmierung (WiSe 23)
-{% endembed %}
 
 ## Referenzen
 

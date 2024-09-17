@@ -18,3 +18,4 @@
 * [Lab 04: C4 Modell](lab-04-c4-modell.md)
 * [Downloads](downloads.md)
 * [Einheit 05: Metriken](einheit-05-metriken.md)
+* [Beispielvideos](beispielvideos.md)

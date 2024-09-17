@@ -4,6 +4,7 @@
   * [Termine](readme/termine.md)
 * [Einheit 01: Komplexität](einheit-01-komplexitaet/README.md)
   * [Aufgabe Kurzreferat](einheit-01-komplexitaet/aufgabe-kurzreferat.md)
+  * [Beispielvideos](einheit-01-komplexitaet/beispielvideos.md)
 * [Einheit 02: Projektmanagement](einheit-02-projektmanagement.md)
 * [Exkurs: Vorgehensmodelle](exkurs-vorgehensmodelle.md)
 * [Einheit 03: Scrum](einheit-03-scrum.md)
@@ -18,4 +19,3 @@
 * [Lab 04: C4 Modell](lab-04-c4-modell.md)
 * [Downloads](downloads.md)
 * [Einheit 05: Metriken](einheit-05-metriken.md)
-* [Beispielvideos](beispielvideos.md)
